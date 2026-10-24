@@ -176,6 +176,14 @@ The code is written in Python, with the following frameworks and libraries:
 
 Otherwise, we build all the functionality from scratch to teach you the foundations that last, not frameworks that abstract away the hard parts.
 
+## 📬 Learn Harness Engineering
+
+> Join 45k+ engineers subscribed to [the Decoding AI Magazine](https://www.decodingai.com/) to learn to build coding agents from scratch.
+
+<a href="https://www.decodingai.com/" target="_blank">
+  <img src="assets/decodingai.jpg" alt="Decoding AI Magazine" width="100%"/>
+</a>
+
 ## 💡 The code tells you _what_. The lessons tell you _why_.
 
 For the full experience, go through the articles and videos that cover what the code can't. **The why behind every decision.**
@@ -254,12 +262,12 @@ For the full experience, go through the articles and videos that cover what the 
   <a href="https://www.youtube.com/playlist?list=PLanusVPiXCT0" target="_blank"><b>🎬 Watch all the videos on YouTube</b></a>
 </p>
 
-## 📬 Learn Harness Engineering
+## 🛠️ Keep Building From Scratch
 
-> Join 45k+ engineers subscribed to [the Decoding AI Magazine](https://www.decodingai.com/) to learn to build coding agents from scratch.
+> Enjoyed building Claude Code from scratch? Keep going with [CodeCrafters](https://app.codecrafters.io/join?via=iusztinpaul), where you can rebuild real developer tools like Redis, Git, a Shell, or an HTTP Server through step-by-step challenges with automated tests, in your language of choice. Signing up is free, and my affiliate link gets you 40% off if you upgrade. Or start with their free [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) guides.
 
-<a href="https://www.decodingai.com/" target="_blank">
-  <img src="assets/decodingai.jpg" alt="Decoding AI Magazine" width="100%"/>
+<a href="https://app.codecrafters.io/join?via=iusztinpaul" target="_blank">
+  <img src="assets/codecrafters-banner.png" alt="CodeCrafters — Build your own X" width="100%"/>
 </a>
 
 ## 👥 Who Should Join?
